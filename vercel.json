@@ -7,7 +7,7 @@
       "use": "vercel-php@0.7.0"
     },
     {
-      "src": "/public/**",
+      "src": "/api/public/**",
       "use": "@vercel/static"
     }
   ],
